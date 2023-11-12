@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Hi, I’m @TomGirshovski
+
+👀 I’m interested in web development, app development, and open-source projects.
+
+🔭 I’m currently working on a few apps that will make your life as a developer or just a normal PC user easier.
+
+🌱 I’m currently learning machine learning algorithms and improving my front-end development skills.
+
+👯 I’m looking to collaborate on begginers - intermidiate apps and projects.
+
+⚡ Fun fact about me: I'm learning always on the way.
+
+📫 How to reach me:
+Email: [r1velhub@gmail.com]
