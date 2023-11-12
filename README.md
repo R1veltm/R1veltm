@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning machine learning algorithms and improving my front-end development skills.
 
-👯 I’m looking to collaborate on begginers - intermidiate apps and projects.
+👯 I’m looking to collaborate on begginer - intermidiate apps and projects.
 
 ⚡ Fun fact about me: I'm learning always on the way.
 
