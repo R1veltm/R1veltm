@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 ⚡ Fun fact about me: I'm learning always on the way.
 
 📫 How to reach me:
-Email: [r1velhub@gmail.com]
+Email: [tomgirshovski.official@gmail.com]
